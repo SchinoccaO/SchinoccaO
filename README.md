@@ -1,7 +1,7 @@
 # Hi, I'm Oriana Schinocca 👋
 ### Software Engineer, Full-Stack Developer & Functional Analyst  | 🚀 Founder @ [MotoFIX](https://motofix.ar)
 
-> **Specialized in building end-to-end digital solutions, relational data architectures, and mission-critical public & enterprise systems.**
+ **Specialized in building end-to-end digital solutions, relational data architectures, and mission-critical public & enterprise systems.**
 ---
 
 ### 📌 About & Focus
