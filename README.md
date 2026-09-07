@@ -1,8 +1,11 @@
-# Hi, I'm Oriana Schinocca 👋
+## Hi, I'm Oriana Schinocca 👋
 
-**Founder @ [MotoFIX](https://motofix.ar)** | Software Engineer, Full-Stack Developer & Functional Analyst based in Argentina.  
-Specialized in building end-to-end digital solutions, relational data architectures, and public/enterprise software systems.
-- **Connect:** [LinkedIn](https://www.linkedin.com/in/oriana-schinocca-3bb70020a)
+<p>
+  <strong>Founder @ <a href="https://motofix.ar">MotoFIX</a></strong> | <strong>Software Engineer, Full-Stack Developer & Functional Analyst</strong> based in Argentina.<br/>
+  <em>Specialized in building end-to-end digital solutions, relational data architectures, and public/enterprise software systems.</em>
+</p>
+
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/oriana-schinocca-3bb70020a/)
 - **Currently scaling MotoFIX** — streamlining workshop management and rider services.
 
 ### Tech Stack & Tools
