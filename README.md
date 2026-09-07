@@ -2,6 +2,7 @@
 
 **Founder @ [MotoFIX](https://motofix.ar)** | Software Engineer, Full-Stack Developer & Functional Analyst based in Argentina.  
 Specialized in building end-to-end digital solutions, relational data architectures, and public/enterprise software systems.
+- **Connect:** [LinkedIn](https://www.linkedin.com/in/oriana-schinocca-3bb70020a)
 
 ### Tech Stack & Tools
 
@@ -17,4 +18,3 @@ Specialized in building end-to-end digital solutions, relational data architectu
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TiDB](https://img.shields.io/badge/TiDB-E30C34?style=for-the-badge&logo=pingcap&logoColor=white)
-- **Connect:** [LinkedIn](https://www.linkedin.com/in/oriana-schinocca-3bb70020a)
